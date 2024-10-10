@@ -1,7 +1,7 @@
-# **[Vincent de Guzman]** - Architectural Portfolio
+# **Vincent de Guzman** - Architectural Portfolio
 
 ## About Me
-Hello! I am [Vincent de Guzman], a passionate 3D Modeler, Renderer, and Visualizer with expertise in architectural visualization. Welcome to my portfolio, where I showcase my best architectural projects and designs.
+Hello! I am Vincent de Guzman, a passionate 3D Modeler, Renderer, and Visualizer with expertise in architectural visualization. Welcome to my portfolio, where I showcase my best architectural projects and designs.
 
 ---
 
